@@ -1,0 +1,14 @@
+int_total_channel_number 5
+int_pu_bandwidth 1
+int_su1_bandwidth 1
+int_su2_min_bandwidth 1
+int_su2_max_bandwidth 1
+int_su1_reserved_channels 0
+int_su2_reserved_channels 0
+flo_pu_arrival_rate 0.5
+flo_su1_arrival_rate 1
+flo_su2_arrival_rate 1
+flo_pu_service_rate 1
+flo_su1_service_rate 1
+flo_su2_service_rate 1
+simulationTime 10000
